@@ -1,0 +1,127 @@
+[
+  {
+    "id": "_meta",
+    "name": "App Feature Showcase",
+    "author": "Pikcube",
+    "logo": "script/logo.png",
+    "background": "script/background.png",
+    "firstNight": [
+      "dusk",
+      "demoninfo",
+      "bureaucrat",
+      "lilmonsta",
+      "organgrinder",
+      "villageidiot",
+      "philosopher",
+      "thief",
+      "wraith",
+      "spy",
+      "minioninfo",
+      "dawn"
+    ],
+    "otherNight": [
+      "legion",
+      "dusk",
+      "wraith",
+      "bureaucrat",
+      "thief",
+      "philosopher",
+      "lilmonsta",
+      "organgrinder",
+      "villageidiot",
+      "spy",
+      "dawn"
+    ],
+    "bootlegger": [
+      "This is a bootleg rule",
+      "Notice that the first night order is incorrect, this is because night order can be customized on a per script basis",
+      "Custom background by Joshua Woroniecki",
+      "\"Night Sky Of Stars And Milky Way Through Pines In Dark Sky Preserve In Alberta Canada\""
+    ]
+  },
+  "villageidiot",
+  "philosopher",
+  {
+    "id": "App Feature Showcase_0",
+    "edition": "App Feature Showcase",
+    "name": "Signal Character",
+    "team": "townsfolk",
+    "reminders": [],
+    "setup": false,
+    "ability": "The 1st time an official character is added that uses the signals feature,  I'll replace this character",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "townsfolk"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "outsider"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "minion"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "demon"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "traveller"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "time": "night",
+        "value": "Hello World",
+        "global": "dead"
+      },
+      {
+        "type": "signal",
+        "name": "player",
+        "value": "Hello Storyteller"
+      },
+      {
+        "type": "signal",
+        "name": "card",
+        "value": "Hello Character"
+      }
+    ],
+    "image": []
+  },
+  "drunk",
+  "spy",
+  "wraith",
+  "boomdandy",
+  "organgrinder",
+  "lilmonsta",
+  "legion",
+  "gardener",
+  "ferryman",
+  "bureaucrat",
+  "thief"
+]
