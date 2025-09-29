@@ -3,8 +3,8 @@
     "id": "_meta",
     "name": "App Feature Showcase",
     "author": "Pikcube",
-    "logo": "script/logo.png",
-    "background": "script/background.png",
+    "logo": "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.AppFeatureShowcase/main/script/logo.png",
+    "background": "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.AppFeatureShowcase/main/script/background.png",
     "firstNight": [
       "dusk",
       "demoninfo",
